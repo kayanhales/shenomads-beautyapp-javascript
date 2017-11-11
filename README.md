@@ -1,6 +1,8 @@
-# shenomads-beautyapp-javascript
+# SheNomads - BeautyApp
 
-This repo was created as a SheNomads mentorship project
+This repo was created as a SheNomads mentorship project. The beauty app prompts a user to select skin care, nail art or makeup.
+
+# Usage
 
 In the jasmine folder you will find
 - src folder
